@@ -1,5 +1,13 @@
-# Netflix-layout
+# Réplica Netflix 
 
-Atividade de clonar os elementos básicos do site Netflix para o bootcamp de HTML Development na DIO
+### Atividade prática de clonar os elementos básicos do site Netflix para o bootcamp de HTML Development na DIO (Digital Innovation One)
 
-https://emanuellecarvalho.github.io/netflix-layout/
+## Tecnologias:
+
+* HTML;
+* CSS;
+* Bootstrap;
+
+## Aplicação:
+
+[Clique aqui para visualizar](https://emanuellecarvalho.github.io/netflix-layout/)
